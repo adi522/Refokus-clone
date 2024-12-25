@@ -1,7 +1,3 @@
-Here’s a basic `README.md` file for your `refokus-clone` project:
-
----
-
 # Refokus Clone
 
 This is a clone of the **Refokus** website, built with **React**, **Vite**, and **TailwindCSS**. The project is designed to demonstrate advanced animation effects and scrolling interactions using **framer-motion** and **locomotive-scroll**.
